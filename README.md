@@ -20,5 +20,5 @@
 ##
   
 <div>      
-  ![Snake animation](https://github.com/pablomarquess/pablomarquess/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/PabloMarquess/PabloMarquess/blob/output/github-contribution-grid-snake.svg) 
 </div>
